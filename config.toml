@@ -1,0 +1,12 @@
+baseURL = "https://blog.erik.is/"
+languageCode = "en-us"
+title = "blog.erik.is"
+theme = "hello-friend"
+copyright = "Erik Nomitch"
+
+[params]
+  [params.logo]
+    logoText = "blog.erik.is"
+    logoHomeLink = "/"
+
+
