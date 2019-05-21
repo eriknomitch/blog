@@ -1,5 +1,5 @@
 ---
-title: "rsync"
+title: "rsync remote directory"
 date: 2019-05-21T13:26:00-05:00
 draft: false
 tags:
@@ -9,11 +9,13 @@ tags:
 
 ## Overview
 
-`rsync` is an excellent option to synchronize a remote and local directory over ssh.
+<span style="font-size:larger;">
+`rsync` is an excellent option to copy or synchronize a remote directory over `ssh`.
+</span>
 
 ### Use Cases
 
-* Transferring large directories since **`rsync` will allow you to resume a transfer if it gets interrupted**.
+* Transferring large directories since _**`rsync` will allow you to resume a transfer if it gets interrupted**_.
 * Keeping directories in sync (periodically)
 
 ## Command
