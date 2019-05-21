@@ -35,11 +35,11 @@ $ rsync --recursive --info=progress2 --info=name0  --partial --rsh="ssh -q" [<us
 
 ### Example Usage
 
-**Important:** _Note the trailing `/` at the end of the local directory_
+**Important:** _Note the trailing `/` at the end of both directory paths._
 
 ```Shell
 $ mkdir training
-$ rsync --recursive --info=progress2 --info=name0  --partial --rsh="ssh -q" erik@remote-host:/srv/data/training training/
+$ rsync --recursive --info=progress2 --info=name0  --partial --rsh="ssh -q" erik@remote-host:/srv/data/training/ training/
 ```
 
 ## Scripting
