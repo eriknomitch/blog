@@ -5,6 +5,8 @@ draft: false
 tags:
   - "unix"
   - "shell"
+categories:
+  - "guide"
 ---
 
 ## Overview
