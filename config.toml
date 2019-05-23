@@ -28,7 +28,3 @@ dateFormatList = "2006-01-02"
         identifier = "posts"
         name = "posts"
         url = "/posts"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "guides"
-        url = "/guides"
