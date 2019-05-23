@@ -7,6 +7,7 @@ tags:
   - "shell"
 categories:
   - "guide"
+description: "`rsync` is an excellent option to copy or synchronize a remote directory over `ssh`."
 ---
 
 ## Overview
