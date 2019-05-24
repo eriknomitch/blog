@@ -9,5 +9,13 @@ categories:
   - "guide"
 ---
 
+## What is it?
+
+## Why do I care?
+
 ![Bufferbloat Diagram](/images/bufferbloat-diagram.jpg)
+
+## Resources
+
+* [untangle / Bufferbloat](https://wiki.untangle.com/index.php/Bufferbloat)
 
