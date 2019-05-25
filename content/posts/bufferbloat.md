@@ -21,7 +21,10 @@ This wait period can be remarkably substantial and sporadic.
 
 If you are affected by bufferbloat, you will have **perceivable spikes in lag**.
 
+
 ![Bufferbloat Diagram](/images/bufferbloat-diagram.jpg)
+
+*Note:* Even if you have an "all-in-one" modem/router you can still have bufferbloat!
 
 ## Okay, do I have bufferbloat?
 
