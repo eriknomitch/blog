@@ -11,9 +11,7 @@ categories:
 
 ## What is bufferbloat?
 
-If your router sends **too much data** to your modem, your modem will "buffer" that data.
-
-The buffered data is now quite literally waiting in your modem until it can send it.
+If your router sends **too much data** to your modem, your modem will "buffer" that data. The buffered data is now quite literally waiting in your modem until it can send it.
 
 ## Why do I care?
 
@@ -24,7 +22,7 @@ If you are affected by bufferbloat, you will have **perceivable spikes in lag**.
 
 ![Bufferbloat Diagram](/images/bufferbloat-diagram.jpg)
 
-*Note:* Even if you have an "all-in-one" modem/router you can still have bufferbloat!
+*Note:* Even if you have an "all-in-one" modem/router you can still have bufferbloat.
 
 ## Okay, do I have bufferbloat?
 
